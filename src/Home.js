@@ -35,15 +35,15 @@ function Home() {
                image='https://images-na.ssl-images-amazon.com/images/I/41W9YdrRslL._SX348_BO1,204,203,200_.jpg'
             />
             <Product
-               id='1231231234'
-               title='Product 1'
+               id='1231231235'
+               title='Product 3'
                price={11.96}
                rating={3}
                image='https://images-na.ssl-images-amazon.com/images/I/41W9YdrRslL._SX348_BO1,204,203,200_.jpg'
             />
             <Product
-               id='1231231234'
-               title='Product 1'
+               id='1231231237'
+               title='Product 2'
                price={11.96}
                rating={3}
                image='https://images-na.ssl-images-amazon.com/images/I/41W9YdrRslL._SX348_BO1,204,203,200_.jpg'
